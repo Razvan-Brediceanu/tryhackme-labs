@@ -3,4 +3,5 @@
 Notes for my TryHackMe rooms.
 
 ## Rooms
-- [Pickle Rick](rooms/pickle-rick/README.md)
+
+- [Pyramid of Pain](rooms/Pyramid%20of%20Pain/notes.md)
